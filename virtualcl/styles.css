@@ -1,0 +1,25 @@
+.bg-dark{
+  background: #2c3e50 !important;
+}
+a{
+  color: white !important;
+}
+.dropdown-item{
+  color: white !important;
+}
+.dropdown-item:hover{
+  color:black !important;
+}
+.dropdown-menu{
+  background: #2c3e50 !important;
+}
+/* body{
+  background-color: #cccccc !important;
+} */
+#bo{
+  background-color: #cccccc !important;
+}
+
+#c{
+  width: 30%;
+}
